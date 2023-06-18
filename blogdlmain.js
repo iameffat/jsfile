@@ -1,5 +1,4 @@
-'use strict';
-! function (_0x4219x2) {
+!function (_0x4219x2) {
     _0x4219x2.fn.pbtLazy = function (_0x4219x3) {
         return _0x4219x3 = _0x4219x2.extend({
             onScroll: !0
